@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 
-<!DOCTYPE rdf:RDF [
+<!DOCTYPE rdf:RDF  [
     <!ENTITY s "http://schema.org/" >
     <!ENTITY cpv "http://purl.org/cpv/2008/" >
     <!ENTITY dcterms "http://purl.org/dc/terms/" >
